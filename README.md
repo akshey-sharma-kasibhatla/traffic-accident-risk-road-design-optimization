@@ -3,14 +3,11 @@ An end-to-end data science capstone project that analyzes traffic accident risk 
 
 # Traffic Accident Risk & Road Design Optimization
 
-## 📌 Project Overview
-## 🎯 Objectives
-## 📊 Dataset Description
-## 🛠️ Tools & Technologies
-## 📈 Methodology
-## 🤖 Machine Learning Models
-## 📌 Key Insights
-## 🚦 Road Design Optimization Suggestions
-## 📂 Project Structure
-## 🚀 How to Run the Project
-## 📜 License
+This is a capstone project.
+
+Goal:
+- Study traffic accident data
+- Find high-risk areas
+- Suggest safer road designs using data analysis and machine learning
+
+Status: Project setup stage
